@@ -77,14 +77,14 @@ Visualization and Interoperability
 1. [Programmable Multi Volume Rendering in Slicer](Projects/MultiVolumeRendering/README.md) (Simon Drouin, Csaba Pinter, Steve Pieper, Jean-Christophe Fillion-Robin)
 1. [OpenIGTLinkIO Development](Projects/OpenIGTLinkIODevelopment/README.md) (Simon Drouin, Csaba Pinter, Andras Lasso, Ole Vegard Solberg, Geir Arne Tangen)
 1. [Add 3D views linking capabilities](Projects/3DViewsLinking/README.md) (Davide Punzo, Andras Lasso, Steve Pieper, Jean-Christophe Fillion-Robin, Simon Drouin)
-1. [DICOMweb related projects: OHIFViewer, Siemens teamplay, ctkDICOMweb, using secure DICOMweb](Projects/DICOMweb/README.md) (Michael Kelm, Steve Pieper, Erik Ziegler, Marco Nolden, Jonas Scherer, Tina Kapur)
+1. [Integration of OHIFViewer with Siemens teamplay using secure DICOMweb](Projects/DICOMweb/README.md) (Michael Kelm, Steve Pieper, Erik Ziegler, Marco Nolden, Jonas Scherer, Tina Kapur)
 1. [Raw Image Read and Display](Projects/RawImageGuess/README.md) (Attila Nagy, Csaba Pinter) 
 1. Improve multivolume preclinical data import for MRI, PET (Sharon Peled, Andras Lasso)
 1. Conversion of Matlab Bridge modules to integrated 3DSlicer modules (Sharon Peled, Andras Lasso)
 
 Application to Large Studies in Chest, Brain
 1. [SlicerCIP Quantitative Reports Tool](Projects/SlicerCIPQuantitativeReportsTool/README.md) (Pietro Nardelli, Jorge Onieva Onieva, Raúl San José Estépar)
-1. Longitudinal analysis of white matter connectivity changes prompted by concussions (Andrei Irimia, Lauren O'Donnell)
+1. [Longitudinal analysis of white matter connectivity changes prompted by concussions](Projects/SlicerTBI/README.md) (Andrei Irimia, Lauren O'Donnell)
 1. [Stereotaxy PYDBS and EPILOC Toolboxes](Projects/STIM_ICM_Project/README.md) (Sara Fernandez Vidal, Jordan Cornillaut and Eric Bardinet)
 
 New Uses of 3D Slicer
